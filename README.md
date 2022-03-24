@@ -14,7 +14,7 @@
 
 
 ### MetaData for ERC721 Token
-`
+```shell
 {
     name: CrankyNft Collections,
 
@@ -22,21 +22,4 @@
 
     image : "://ipfs.io/ipfs/QmdpzAfkQUmZ2yzkp4Z8tbYvKYdtf61iqypd39LaSgmueP"
 }
-
-`
-
-You can scan the Contract with the Link Below
-
-https://rinkeby.etherscan.io/
-
-Do Copy the Contract address and scan it here
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
 ```
